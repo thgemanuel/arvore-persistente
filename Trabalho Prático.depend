@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1520036947 source:c:\users\eagle\3d objects\trabalho prático 3\trabalho prático\main.cpp
+	"arvore.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<utility>
+
+1520037035 c:\users\eagle\3d objects\trabalho prático 3\trabalho prático\arvore.h
+	<sstream>
+	<string>
+	<iostream>
+	<utility>
+
+1520036947 source:c:\users\eagle\videos\trabalho prático\main.cpp
+	"arvore.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<utility>
+
+1520044070 c:\users\eagle\videos\trabalho prático\arvore.h
+	<sstream>
+	<string>
+	<iostream>
+	<utility>
+
